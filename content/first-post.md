@@ -1,4 +1,4 @@
-title: First Post on My Sweet New Blog
+title: First Post on our new blog
 date: 03 July 2020
 author: Ian Watt
 
