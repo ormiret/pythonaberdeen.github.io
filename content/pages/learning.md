@@ -1,5 +1,6 @@
 title: Learning Resources
-date: 03 July 2020
+date: 03 July 2020 10:00
+modified: 03 July 2020 19:25
 
 If you are new to Python we recommend this [free video course](https://www.youtube.com/watch?v=_uQrJ0TkZlc) as a good starting point. 
 
