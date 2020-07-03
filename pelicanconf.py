@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'APUG'
-SITENAME = 'Python Aberdeen'
+SITENAME = 'The Python Aberdeen User Group'
 SITEURL = ''
 
 PATH = 'content'
@@ -26,10 +26,11 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/pythonaberdeen'),
+          ('Slack', 'https://join.slack.com/t/python-aberdeen/shared_invite/zt-fe4vr06d-TavzVV4ZusCxYLEdCqxsyQ'),
+          ('github', 'http://github.com/pythonaberdeen'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 5
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
