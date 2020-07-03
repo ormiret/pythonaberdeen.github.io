@@ -8,6 +8,6 @@ It will take you through installing Python and getting started with the programm
 
 While the whole course is 6 hours(!), you can cover most of the learning in the first three. You can pause and code along. 
 
-If you want to join our monthly online sessions we suggest you've view most if not all of those three hours to get the most out of the projects. 
+If you want to join our monthly online sessions we suggest you've view most if not all of those three hours to get the most out of the [monthly set projects](https://github.com/PythonAberdeen/user_group) . 
 
-First updated by Ian Watt 
+
