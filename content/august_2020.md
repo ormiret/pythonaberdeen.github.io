@@ -10,13 +10,13 @@ Register to attend [here](https://ti.to/code-the-city/aberdeen-python-user-group
 
 The format is 
 
-* 18:30 A talk on Scraping the Web with Python Tools. Speaker to be confirmed. 
+* 18:30 A talk on "Scraping the Web with Python Tools" by Ian Watt. 
 * 19:00 Project teams in break-out rooms (Beginner and Intermediate). 
 * 20:30 Project round-ups
 
 The project challenges will be annopunced on [Github](https://github.com/PythonAberdeen/user_group/tree/master/)
 
-We receommend joining our [Slack channel](https://join.slack.com/t/python-aberdeen/shared_invite/zt-fe4vr06d-TavzVV4ZusCxYLEdCqxsyQ). 
+We recommend joining our [Slack channel](https://join.slack.com/t/python-aberdeen/shared_invite/zt-fe4vr06d-TavzVV4ZusCxYLEdCqxsyQ). 
 
 If you are a beginner looking to get started in Python have a look at our [Learning Resources page](https://pythonaberdeen.github.io/pages/learning-resources.html) where we recommend a free video course on Youtube. 
 
